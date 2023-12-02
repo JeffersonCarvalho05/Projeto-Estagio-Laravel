@@ -1,0 +1,8 @@
+Makefile
+README.md
+.gitignore
+.gitattributes
+.vscode
+**/.git
+**/.ps_Store
+**/node_modules
